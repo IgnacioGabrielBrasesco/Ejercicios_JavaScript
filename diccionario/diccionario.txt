@@ -1,0 +1,29 @@
+Conversiones de tipos
+string      alfanumerico
+number
+    enteros     int
+    con coma    float
+
+convertimos de string a enteros:    parseInt (conversion a enteros)
+convertimos de string a float:      parseFloat() (conversion a numero con coma)
+
+= asignacion de variable
+== compara de manera flexible el valor
+=== compara estrictamente valor y tipo
+
+switch      evalua muchas opciones como si fuese if y else if
+    case valor :
+    breack;
+
+function nombre_de_la_funcion(parametro){}
+    llamado a la funcion: nombre_de_la_funcion(argumento)
+
+let las variables let viven y mueren dentro de las llaves {let = i;}
+
+funciones que se pueden usar en string y arrays
+.toString() convierte a string
+.parseInt() convierte a numero entero
+.parseFloat() convierte a numero con coma flotante
+.length te da el largo de un string o un arrays
+
+let numeroInvertido = ""; crea una variable vacia que se va a ir llenando en cada iteracion del for
